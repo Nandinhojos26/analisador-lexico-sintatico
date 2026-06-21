@@ -1,0 +1,8 @@
+com/uepb/lexer/Token.class
+com/uepb/parser/Parser.class
+com/uepb/parser/TokenBuffer.class
+com/uepb/lexer/Lexer.class
+com/uepb/lexer/TokenPattern.class
+com/uepb/Main.class
+com/uepb/lexer/TokenType.class
+com/uepb/lexer/Buffer.class

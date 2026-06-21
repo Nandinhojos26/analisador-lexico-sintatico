@@ -1,0 +1,8 @@
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/parser/TokenBuffer.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/lexer/Lexer.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/parser/Parser.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/lexer/Buffer.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/lexer/TokenType.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/Main.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/lexer/Token.java
+/home/tiduswr/disciplinas_codigos/noite/src/main/java/com/uepb/lexer/TokenPattern.java
